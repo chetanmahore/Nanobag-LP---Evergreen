@@ -1,0 +1,6 @@
+{
+  "name": "Nanobag — The World's Most Compact Reusable Bag",
+  "description": "Ultralight, pocket-sized, diamond ripstop bag. Stronger than steel. Unlock 10% off your first order.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
